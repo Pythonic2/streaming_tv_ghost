@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form >
+        <p>receba seu teste por Email</p>
+        {%csrf_token%}
+        {{form.as_p}}
+        <input type="submit" value="Pedir Teste" hx-post="{% url 'salvar-cliente' %}"  hx-trigger="click" hx-target="#resultado">
+    </form>
+
+    <div id="resultado">
+    </div>
+
+<script src="https://unpkg.com/htmx.org@1.9.12" integrity="sha384-ujb1lZYygJmzgSwoxRggbCHcjc0rB2XoQrxeTUQyRjrOnlCoYta87iKBWq3EsdM2" crossorigin="anonymous"></script>
+</body>
+</html>
+
