@@ -1,0 +1,16 @@
+[38802:38802:0511/023542.913830:WARNING:chrome_main_delegate.cc(740)] This is Chrome version 123.0.6312.105 (not a warning)
+[38802:38802:0511/023542.940332:INFO:policy_logger.cc(145)] :components/policy/core/common/config_dir_policy_loader.cc(118) Skipping mandatory platform policies because no policy file was found at: /etc/opt/chrome/policies/managed
+[38802:38802:0511/023542.940357:INFO:policy_logger.cc(145)] :components/policy/core/common/config_dir_policy_loader.cc(118) Skipping recommended platform policies because no policy file was found at: /etc/opt/chrome/policies/recommended
+[38802:38802:0511/023543.043378:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[38802:38802:0511/023543.043421:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[38885:1:0511/023543.136799:WARNING:runtime_features.cc(728)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[38891:1:0511/023543.165623:WARNING:runtime_features.cc(728)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[38843:38843:0511/023543.173955:WARNING:sandbox_linux.cc(418)] InitializeSandbox() called with multiple threads in process gpu-process.
+[38802:38802:0511/023543.183620:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[38802:38802:0511/023543.457158:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not implemented
+[38940:1:0511/023543.560890:WARNING:runtime_features.cc(728)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[38951:1:0511/023543.599274:WARNING:runtime_features.cc(728)] AttributionReportingCrossAppWeb cannot be enabled in this configuration. Use --enable-features=ConversionMeasurement,AttributionReportingCrossAppWeb in addition.
+[38802:38802:0511/023544.137253:INFO:CONSOLE(0)] "Error while trying to use the following icon from the Manifest: https://playghost.qpanel.top/api/pwa-192x192.png (Download error or resource isn't a valid image)", source: https://playghost.qpanel.top/#/dashboard (0)
+[38855:38868:0511/023546.951539:WARNING:sqlite_persistent_store_backend_base.cc(197)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:246 to client_task_runner_.
+[38855:38868:0511/023546.951601:WARNING:sqlite_persistent_store_backend_base.cc(197)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:246 to client_task_runner_.
+[38802:38802:0511/023546.981596:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

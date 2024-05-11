@@ -1,0 +1,213 @@
+2024-05-10 23:25:35,734 - INFO - ====== WebDriver manager ======
+2024-05-10 23:25:35,849 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-10 23:25:36,015 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-10 23:25:36,103 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-10 23:25:36,298 - INFO - WebDriver version 123.0.6312.122 selected
+2024-05-10 23:25:36,300 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.122/linux64/chromedriver-linux64.zip
+2024-05-10 23:25:36,300 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.122/linux64/chromedriver-linux64.zip
+2024-05-10 23:25:36,670 - INFO - Driver downloading response is 200
+2024-05-10 23:25:37,783 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-10 23:25:38,057 - INFO - Driver has been saved in cache [/home/igor/.wdm/drivers/chromedriver/linux64/123.0.6312.122]
+2024-05-10 23:31:48,572 - INFO - ====== WebDriver manager ======
+2024-05-10 23:31:48,622 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-10 23:31:48,717 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-10 23:31:48,810 - INFO - Driver [/home/igor/.wdm/drivers/chromedriver/linux64/123.0.6312.122/chromedriver-linux64/chromedriver] found in cache
+2024-05-10 23:32:20,476 - INFO - ====== WebDriver manager ======
+2024-05-10 23:32:20,535 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-10 23:32:20,629 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-10 23:32:20,721 - INFO - Driver [/home/igor/.wdm/drivers/chromedriver/linux64/123.0.6312.122/chromedriver-linux64/chromedriver] found in cache
+2024-05-11 02:34:43,107 - INFO - ====== WebDriver manager ======
+2024-05-11 02:34:43,185 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 02:34:43,289 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 02:34:43,383 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 02:34:43,597 - INFO - WebDriver version 123.0.6312.122 selected
+2024-05-11 02:34:43,599 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.122/linux64/chromedriver-linux64.zip
+2024-05-11 02:34:43,600 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/123.0.6312.122/linux64/chromedriver-linux64.zip
+2024-05-11 02:34:43,941 - INFO - Driver downloading response is 200
+2024-05-11 02:34:45,097 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 02:34:45,314 - INFO - Driver has been saved in cache [/home/igor/.wdm/drivers/chromedriver/linux64/123.0.6312.122]
+2024-05-11 02:35:11,534 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 02:35:13,377 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 02:35:37,193 - WARNING - Not Found: /favicon.ico
+2024-05-11 02:35:42,655 - INFO - ====== WebDriver manager ======
+2024-05-11 02:35:42,704 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 02:35:42,799 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 02:35:42,885 - INFO - Driver [/home/igor/.wdm/drivers/chromedriver/linux64/123.0.6312.122/chromedriver-linux64/chromedriver] found in cache
+2024-05-11 02:36:10,063 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/utils.py changed, reloading.
+2024-05-11 02:36:23,302 - INFO - ====== WebDriver manager ======
+2024-05-11 02:36:23,350 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 02:36:23,445 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 02:36:23,528 - INFO - Driver [/home/igor/.wdm/drivers/chromedriver/linux64/123.0.6312.122/chromedriver-linux64/chromedriver] found in cache
+2024-05-11 02:57:42,582 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/utils.py changed, reloading.
+2024-05-11 03:01:08,809 - INFO - ====== WebDriver manager ======
+2024-05-11 03:01:08,857 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 03:01:09,012 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 03:01:09,094 - INFO - Driver [/home/igor/.wdm/drivers/chromedriver/linux64/123.0.6312.122/chromedriver-linux64/chromedriver] found in cache
+2024-05-11 03:06:21,782 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/utils.py changed, reloading.
+2024-05-11 03:06:29,629 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/utils.py changed, reloading.
+2024-05-11 03:07:34,924 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:07:53,106 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:07:58,340 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/utils.py changed, reloading.
+2024-05-11 03:08:01,145 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/utils.py changed, reloading.
+2024-05-11 03:08:09,928 - INFO - ====== WebDriver manager ======
+2024-05-11 03:08:09,981 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 03:08:10,071 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 03:08:10,157 - INFO - Driver [/home/igor/.wdm/drivers/chromedriver/linux64/123.0.6312.122/chromedriver-linux64/chromedriver] found in cache
+2024-05-11 03:08:27,443 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:08:32,764 - INFO - ====== WebDriver manager ======
+2024-05-11 03:08:32,820 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 03:08:32,912 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 03:08:32,998 - INFO - Driver [/home/igor/.wdm/drivers/chromedriver/linux64/123.0.6312.122/chromedriver-linux64/chromedriver] found in cache
+2024-05-11 03:08:43,572 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:08:48,736 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:08:52,573 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:08:55,400 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:09:00,585 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:09:02,427 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:09:04,279 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:09:08,138 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:09:09,944 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:09:11,857 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:09:13,720 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:09:15,609 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:09:17,528 - ERROR - Internal Server Error: /salvar-cliente
+Traceback (most recent call last):
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/main/views.py", line 22, in htmx_cadastrar_cliente
+    print(form.cleaned_data)
+AttributeError: 'ClienteForm' object has no attribute 'cleaned_data'
+2024-05-11 03:09:37,696 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:09:41,820 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:09:44,667 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:09:48,514 - ERROR - Internal Server Error: /salvar-cliente
+Traceback (most recent call last):
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/main/views.py", line 22, in htmx_cadastrar_cliente
+    print(form.email)
+AttributeError: 'ClienteForm' object has no attribute 'email'
+2024-05-11 03:09:54,650 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:10:00,917 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:10:03,305 - ERROR - Internal Server Error: /salvar-cliente
+Traceback (most recent call last):
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/main/views.py", line 22, in htmx_cadastrar_cliente
+    print(form.clean())
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/forms/models.py", line 427, in clean
+    return self.cleaned_data
+AttributeError: 'ClienteForm' object has no attribute 'cleaned_data'
+2024-05-11 03:10:07,917 - ERROR - Internal Server Error: /salvar-cliente
+Traceback (most recent call last):
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/main/views.py", line 22, in htmx_cadastrar_cliente
+    print(form.clean())
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/forms/models.py", line 427, in clean
+    return self.cleaned_data
+AttributeError: 'ClienteForm' object has no attribute 'cleaned_data'
+2024-05-11 03:10:20,135 - ERROR - Internal Server Error: /salvar-cliente
+Traceback (most recent call last):
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/main/views.py", line 22, in htmx_cadastrar_cliente
+    print(form.clean())
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/forms/models.py", line 427, in clean
+    return self.cleaned_data
+AttributeError: 'ClienteForm' object has no attribute 'cleaned_data'
+2024-05-11 03:10:27,509 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:10:34,069 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:10:36,320 - INFO - ====== WebDriver manager ======
+2024-05-11 03:10:36,373 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 03:10:36,528 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 03:10:36,629 - INFO - Driver [/home/igor/.wdm/drivers/chromedriver/linux64/123.0.6312.122/chromedriver-linux64/chromedriver] found in cache
+2024-05-11 03:10:46,126 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:10:48,806 - ERROR - Internal Server Error: /salvar-cliente
+Traceback (most recent call last):
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/main/views.py", line 22, in htmx_cadastrar_cliente
+    print(form.data.values()['email'])
+TypeError: 'generator' object is not subscriptable
+2024-05-11 03:10:58,363 - ERROR - Internal Server Error: /salvar-cliente
+Traceback (most recent call last):
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/main/views.py", line 22, in htmx_cadastrar_cliente
+    print(form.data.values()['email'])
+TypeError: 'generator' object is not subscriptable
+2024-05-11 03:11:04,206 - ERROR - Internal Server Error: /salvar-cliente
+Traceback (most recent call last):
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/main/views.py", line 22, in htmx_cadastrar_cliente
+    print(form.data.values()['email'])
+TypeError: 'generator' object is not subscriptable
+2024-05-11 03:11:11,267 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:11:29,225 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:11:35,420 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:11:38,280 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:11:41,139 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:11:47,290 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:11:55,160 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:12:00,107 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:12:08,056 - ERROR - Internal Server Error: /salvar-cliente
+Traceback (most recent call last):
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/main/views.py", line 23, in htmx_cadastrar_cliente
+    print(form.request.POST.get('email'))
+AttributeError: 'ClienteForm' object has no attribute 'request'
+2024-05-11 03:12:20,266 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:12:24,453 - ERROR - Internal Server Error: /salvar-cliente
+Traceback (most recent call last):
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/main/views.py", line 23, in htmx_cadastrar_cliente
+    print(form.POST.get('email'))
+AttributeError: 'ClienteForm' object has no attribute 'POST'
+2024-05-11 03:12:30,312 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:12:31,079 - ERROR - Internal Server Error: /salvar-cliente
+Traceback (most recent call last):
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/media/igor/arquivos/git/streaming_tv_ghost/main/views.py", line 23, in htmx_cadastrar_cliente
+    print(form.get('email'))
+AttributeError: 'ClienteForm' object has no attribute 'get'
+2024-05-11 03:12:40,185 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:14:38,587 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:14:41,513 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:14:44,441 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:14:48,352 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:14:52,341 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:15:11,449 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/views.py changed, reloading.
+2024-05-11 03:15:18,412 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/utils.py changed, reloading.
+2024-05-11 03:15:23,360 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/utils.py changed, reloading.
+2024-05-11 03:15:32,364 - INFO - /media/igor/arquivos/git/streaming_tv_ghost/main/utils.py changed, reloading.
+2024-05-11 03:15:45,165 - INFO - ====== WebDriver manager ======
+2024-05-11 03:15:45,216 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 03:15:45,309 - INFO - Get LATEST chromedriver version for google-chrome
+2024-05-11 03:15:45,394 - INFO - Driver [/home/igor/.wdm/drivers/chromedriver/linux64/123.0.6312.122/chromedriver-linux64/chromedriver] found in cache
